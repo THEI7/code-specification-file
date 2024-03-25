@@ -1,37 +1,22 @@
 # code-specification-file
 
-#### 介绍
-规范代码文件
+### 目标：
 
-#### 软件架构
-软件架构说明
+1. 代码简洁精炼、美观、可持续性好。
+2. 自解释性
+3. 高效率
+4. 高复用
+5. 高内聚、低耦合
+6. 没有冗余
+7. 规范性，代码有规可寻
+8. 特殊排版，特殊语法，特殊指令，必须特别说明。
 
+### 代码规范的参考书
 
-#### 安装教程
+1. C++编码规范，陈世忠，人民电邮出版社。
+2. 高质量程序设计指南：C++/C语言，林锐等，电子工业出版社，2003
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 代码规范参考
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. google，华为等大厂。
+2. 典型的开源项目，如opencv，opengl，boost库等。
